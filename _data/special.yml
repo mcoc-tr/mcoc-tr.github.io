@@ -907,7 +907,6 @@ cable:
     s3a_name: "TK Tüfeği"
     sign_name: "Klyntar Öfkesi"
     sign_desc: "Dövüşün başında ve Flash Maksimum Canının %50 kadarını her kaybettiğinde, Venom sembiyot üzerindeki kontrolünü geçici olarak kaybeder, Saldırı ve Kritik Hasarı %32 artar. Bu etki 5 defa darbe aldığında ortadan kalkar."
-
 hood: 
     s1a_desc: "Kendisine bahşedilen gücün derinliklerine uzanan Hood, kaotik bir yıldırım arkı fırlatır."
     s2a_desc: "Doğaüstü silahlarını çıkaran Hood, mesafesini koruyarak düşmanlarının üzerine şarjörlerini boşaltır."
@@ -917,7 +916,7 @@ hood:
     s3a_name: "Karanlık Anlaşma"
     sign_name: "Klyntar Öfkesi"
     sign_desc: "Dövüşün başında ve Flash Maksimum Canının %50 kadarını her kaybettiğinde, Venom sembiyot üzerindeki kontrolünü geçici olarak kaybeder, Saldırı ve Kritik Hasarı %32 artar. Bu etki 5 defa darbe aldığında ortadan kalkar."
-		
+
 dormammu: 
     s1a_desc: "Karanlık Boyuttan gelen bir güç dalgası, rakibinin ruhunu tamamen tutuşturarak karşısına çıkan tüm güç kaynaklarını yakıp kül eder."
     s2a_desc: "Dormammu Karanlık Boyuta açılan bir yarık açarak ham güçten oluşan oklar yağdırır."
@@ -927,7 +926,7 @@ dormammu:
     s3a_name: "Karanlık Boyut Lordu"
     sign_name: "Klyntar Öfkesi"
     sign_desc: "Dövüşün başında ve Flash Maksimum Canının %50 kadarını her kaybettiğinde, Venom sembiyot üzerindeki kontrolünü geçici olarak kaybeder, Saldırı ve Kritik Hasarı %32 artar. Bu etki 5 defa darbe aldığında ortadan kalkar."
-		
+
 archangel: 
     s1a_desc: "Archangel, kuvvetli nörotoksinleriyle kaplı kesici uçlu metal tüylerinden birkaçını fırlatır"
     s2a_desc: "Archangel, altı uzvunun tümünü keskin bıçak darbesi serisi için kullanır."
@@ -937,7 +936,7 @@ archangel:
     s3a_name: "Hipersonik Çığlık"
     sign_name: "Klyntar Öfkesi"
     sign_desc: "Dövüşün başında ve Flash Maksimum Canının %50 kadarını her kaybettiğinde, Venom sembiyot üzerindeki kontrolünü geçici olarak kaybeder, Saldırı ve Kritik Hasarı %32 artar. Bu etki 5 defa darbe aldığında ortadan kalkar."
-		
+
 psylocke: 
     s1a_desc: "Psylocke, Katanasıyla beraber kullandığı telekinetik kılıcını gözler önüne serer."
     s2a_desc: "Psylocke, sahip olduğu Telepatik yetenekleri, saf psionik enerji patlaması olarak açığa çıkarır."
@@ -947,7 +946,7 @@ psylocke:
     s3a_name: "Psionik Bıçak Saldırısı"
     sign_name: "Klyntar Öfkesi"
     sign_desc: "Dövüşün başında ve Flash Maksimum Canının %50 kadarını her kaybettiğinde, Venom sembiyot üzerindeki kontrolünü geçici olarak kaybeder, Saldırı ve Kritik Hasarı %32 artar. Bu etki 5 defa darbe aldığında ortadan kalkar."
-		
+
 iceman: 
     s1a_desc: "Ani bir buz gibi hava dalgası, rakibin sakinleşmesine yardımcı olur."
     s2a_desc: "Rakipleri olduğu yerde bekletmeye yetecek ve başlarından aşağı buz saçakları yağmasını sağlayacak kadar uzun süren bir buz akımı."
@@ -957,7 +956,7 @@ iceman:
     s3a_name: "Seninle Tanışmak Dondurucu"
     sign_name: "Klyntar Öfkesi"
     sign_desc: "Dövüşün başında ve Flash Maksimum Canının %50 kadarını her kaybettiğinde, Venom sembiyot üzerindeki kontrolünü geçici olarak kaybeder, Saldırı ve Kritik Hasarı %32 artar. Bu etki 5 defa darbe aldığında ortadan kalkar."
-		
+
 angela: 
     s1a_desc: "Angela, Xiphos adlı kılıcını kullanarak bir dizi etkili vuruşlar yapar."
     s2a_desc: "Angela, ileri atılarak Bıçaklarını ayrık kullanır ve sonra, darbe vurmak için onları birleştirir."
@@ -967,7 +966,7 @@ angela:
     s3a_name: "Dövüş Sanatı Ustalığı"
     sign_name: "Klyntar Öfkesi"
     sign_desc: "Dövüşün başında ve Flash Maksimum Canının %50 kadarını her kaybettiğinde, Venom sembiyot üzerindeki kontrolünü geçici olarak kaybeder, Saldırı ve Kritik Hasarı %32 artar. Bu etki 5 defa darbe aldığında ortadan kalkar."
-		
+
 king-groot: 
     s1a_desc: "X Gezegeni hükümdarı, iki kuvvetli vuruşla rakibini affedilmeyenlerin Dünyasına postalar."
     s2a_desc: "Kral Groot, toksik bir bitkisel zehir dalgası yağdırır."
