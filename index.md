@@ -16,7 +16,7 @@ homepage: true
 <div class="row">
 
      <div class="medium-6 columns">
-    <h4 class="b05"><a href="{{ site.url }}/haber/">Son Haberler</a></h4>
+    <h4 class="b05"><a href="{{ site.url }}/haber/">Güncellemeler</a></h4>
     {% include list-collection.html collection='haber' limit='5' %}
     <p class="sans text-right"><a class="button tiny radius" href="{{ site.url }}/haber/"><strong>Tümü›››</strong></a></p>
   </div><!-- /.medium-6.columns -->
