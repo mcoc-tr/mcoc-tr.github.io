@@ -897,7 +897,7 @@ yellow-jacket:
     s3a_name: "Biyo İğne Yaylım Ateşi"
     sign_name: "Klyntar Öfkesi"
     sign_desc: "Dövüşün başında ve Flash Maksimum Canının %50 kadarını her kaybettiğinde, Venom sembiyot üzerindeki kontrolünü geçici olarak kaybeder, Saldırı ve Kritik Hasarı %32 artar. Bu etki 5 defa darbe aldığında ortadan kalkar."
-	
+
 cable: 
     s1a_desc: "Cable, rakibini geriye doğru iterek plazma tüfeğini kullanmak için yer açar."
     s2a_desc: "Tüfeğinden önce telekinetik bir dalga sonra da yüksek enerji şarjlı bir patlama gönderilir."
