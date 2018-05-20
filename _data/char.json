@@ -98,9 +98,9 @@
     "guillotine": {
       "bio": "Fransız ve Cezayir kökenli Guillotine, \"Kötülüğün Çiçeği\" adlı karanlık ve doğaüstü güçleri olan esrarengiz bir kılıcı kuşanan son kişi unvanını taşıyor. Yüzyıllar boyunca bu büyülü kılıcı savuran bir sürü kişi oldu. Kimi kılıcı iyilik için kimi de kötülük için kullandı. Kılıcın iradesi güçlü, kana susamışlığı sonsuz olduğu için çoğu kişi kılıcın fısıltılarına yenik düştü. Şimdiki Guillotine, kılıcı suçluları cezalandırmak için kullanıyor ve kılıcın karanlık içgüdülerini bastırıyor... Şimdilik!"
     },
-	"gwenpool": {
-	  "bio": "Hevesli bir çizgi roman okuyucusu olan Gwen Poole, çok sevdiği çizgi roman dünyasına bilinmeyen bir şekilde götürülmüştü ama \"gerçek\" dünyaya dair tüm anılarını da yanına alarak... Kendi hikâyesinde bir figüran olarak kalmak istemeyen Gwen, kendi adını duyurmak ve internet faturasını ödemenin bir yolunu bulmak üzere yola çıktı. Belki de şu Turnuva denen şey sayesinde biraz para kazanabilir... En azından eğleneceği bir şeyler yapmış olacak."
-	},
+    "gwenpool": {
+      "bio": "Hevesli bir çizgi roman okuyucusu olan Gwen Poole, çok sevdiği çizgi roman dünyasına bilinmeyen bir şekilde götürülmüştü ama \"gerçek\" dünyaya dair tüm anılarını da yanına alarak... Kendi hikâyesinde bir figüran olarak kalmak istemeyen Gwen, kendi adını duyurmak ve internet faturasını ödemenin bir yolunu bulmak üzere yola çıktı. Belki de şu Turnuva denen şey sayesinde biraz para kazanabilir... En azından eğleneceği bir şeyler yapmış olacak."
+    },
     "hawkeye": {
       "bio": "Clint Barton - süper askerlerin, zırhlı dahilerin ve yıldırım tanrılarının arasında sıradan bir adam. Dünyanın en iyi keskin nişancısı olarak bilinen bu adam, ok ve yay kullanımında ustalaşmıştır ve fırlatılabilen neredeyse her şeyi isabetli bir silaha dönüştürebilme yeteneğine sahiptir. Azimli, cesur ve yiğit Şahin Göz, güçlü İntikamcılar'ın önemli üyelerindendir!"
     },
@@ -113,12 +113,12 @@
     "red-hulk": {
       "bio": "General Thaddeus “Thunderbolt” Ross, Muhteşem Hulk'un peşine düşüp onu yok etmeyi kapsayan bitmek bilmeyen görevinde kimsenin aklına bile getiremeyeceği şeyi yaptı. Bir radyasyon kombinasyonunu kullanan Ross kendini onca zamandır nefret ettiği şeye dönüştürdü: Yürüyen bir kitle imha silahı. Süper bir güç, dayanıklılık ve radyasyon ile enerjiyi emme yeteneğine sahip olan Thunderbolt Ross, artık kendi vahşi dürtülerine yenik düşmeden Hulk'ı yok etme arzusuyla mücadele ediyor."
     },
-	"howard": {
-	  "bio": "New York'taki dedektiflik ajansından koparılarak savaş diyarına atıldığında ne bekleyeceğini bilmiyordu. Bir depoya atılarak tüm gün boyunca Koleksiyoncu'nun Kristallerini organize edeceği aklının ucundan bile geçmiyordu. Böyle bir hakareti kabul edecek birisi değildi. Yedek bir İZO-Yükleyici \"ödünç alarak\" üzerinde bazı yükseltmeler yaptı ve ünlü eski dostu Acayip Büyük Silah'ı da bu yükleyiciye ekledi. Howard'ın bu sözde Şampiyonları kendi evreninin en önemli dövüş stili olan Quack-Fu ile tanıştırma vakti geldi."
-	},
-	"hyperion": {
-	  "bio": "Bebekken uzaya fırlatılan Hyperion, ölmekte olan bir gezegendeki ölmekte olan bir ırktan geriye sağ kalan tek kişiydi. Dünyaya düştükten sonra ise Baba adıyla tanınan bir adam tarafından bulundu. Baba, ona doğruyla yanlışı, iyiyle kötüyü ayırt edebilmeyi öğretecek ve ona inanılmaz güçlerini kullanarak dünyanın bir koruyucusu olmasında yol gösterecek ahlak kurallarını aşılayacaktı."
-	},
+    "howard": {
+      "bio": "New York'taki dedektiflik ajansından koparılarak savaş diyarına atıldığında ne bekleyeceğini bilmiyordu. Bir depoya atılarak tüm gün boyunca Koleksiyoncu'nun Kristallerini organize edeceği aklının ucundan bile geçmiyordu. Böyle bir hakareti kabul edecek birisi değildi. Yedek bir İZO-Yükleyici \"ödünç alarak\" üzerinde bazı yükseltmeler yaptı ve ünlü eski dostu Acayip Büyük Silah'ı da bu yükleyiciye ekledi. Howard'ın bu sözde Şampiyonları kendi evreninin en önemli dövüş stili olan Quack-Fu ile tanıştırma vakti geldi."
+    },
+    "hyperion": {
+      "bio": "Bebekken uzaya fırlatılan Hyperion, ölmekte olan bir gezegendeki ölmekte olan bir ırktan geriye sağ kalan tek kişiydi. Dünyaya düştükten sonra ise Baba adıyla tanınan bir adam tarafından bulundu. Baba, ona doğruyla yanlışı, iyiyle kötüyü ayırt edebilmeyi öğretecek ve ona inanılmaz güçlerini kullanarak dünyanın bir koruyucusu olmasında yol gösterecek ahlak kurallarını aşılayacaktı."
+    },
     "iron-fist": {
       "bio": "Danny Rand, dövüş sanatlarında ustalaşmak için gizli K'un Lun şehrini seyahat etmiş zeki bir milyarderdir. Demir Yumruk unvanını ve gücünü alan birçok savaşçıdan sonuncusu olan Rand, chi'sini odaklayarak, dövüş yeteneklerini insanüstü seviyelere çıkarma yeteneğine sahiptir."
     },
@@ -278,40 +278,31 @@
     "x-23": {
       "bio": "X Silahı programının Wolverine'i yaratmasından yıllar sonra üstün bir ölüm makinesini yaratmak üzere aynı sonuçları elde etmeye yönelik çok gizli bir plan harekete geçirildi. Logan'dan alınan hasar görmüş DNA'lar kullanılarak dişi bir klon oluşturuldu ve bu klona Adamantiyum yerleştirildi. Esaret altında yetiştirilen Laura Kinney, X-23 adıyla üstün bir suikastçiye dönüştürüldü. Kendisini esir tutanlardan kaçıp kurtulan Laura şimdi Yeni Wolverine olarak kendi kaderini çizmek üzere mücadele ediyor."
     },
-    
     "yellow-jacket": {
       "bio": "Hank Pym'in şaşkınlık verici küçülen kıyafetinin sırrını öğrenen zalim teknoloji dehası Darren Cross, tüm kaynaklarını buna benzer özelliklere sahip prototip bir kıyafet geliştirmeye ayırdı. Cross, bu yüksek güçlü sibernetik donanımı, modern savaşları yeni bir seviyeye getirebilecek bir araç olarak düşündü ve kendisini bununla donatıp silahlandırmayı hayal etti. Cross artık Sarı Ceket olarak nihai zafere ulaşmak umuduyla bu zırhı kendisi giyiyor."
     },
-	
-	"cable": {
-	 "bio": "Nathan Summers, kaderi daha doğmadan belirlenmiş olan bir çocuktu. Annesi Madelyne Pryor ile babası Scott Summers'ın, onu dünyaya getirmeleri için Mister Sinister tarafından aklı çelinmişti ve böylelikle, genetik yönden üstün bir mutant yaratarak muhteşem bir silaha sahip olmayı amaçlıyordu. Nathan çocukluğunda, tam aksine, ölümcül Tekno Organik Virüs kaptı ve hayata tutunabilmesi için 2000 yıl öteye gönderildi. Yıllar sonra günümüze geri döndü ve bugün ile gelecek arasında taşıdığı sıradışı köprü konumunu temsilen Cable adını aldı. "
-	},
-	
-	"hood": {
-	 "bio": "Daima insanüstülere hayranlık duyan genç hırsız Parker Robbins, kazançlarını hasta annesi de dâhil olmak üzere ailesine yardım etmek için kullanıyordu. Beklenmedik bir şekilde sonuçlanan bir soygunun ardından Parker'ın eline mistik bir bot ve pelerin geçti. Bu doğaüstü eşyaları anlamaya çabalayan Parker, bunların görünmezlik ve havada yürümek gibi sınırlı güçler sağladığını öğrendi. Polisin Hood ismiyle andığı Parker, kısa bir süre sonra daha karanlık bir yola girdi ve yeni elde ettiği güçlerden faydalanarak ailesinin güvenliğini sağlamak üzere kendi suç imparatorluğunu kurdu"
-	},
-	
-	"dormammu": {
-	 "bio": "Dormammu, Faltine olarak bilinen güçlü enerji varlıklarının oluşturduğu bir ırktan geliyor ve tek gerçek arzusu da güç. Bu arzusu nedeniyle kendi boyutuna kaçmak zorunda kaldı ve nihayetinde Karanlık Boyuta hükmetmek üzere yükseldi. Burada, tebasının tapınmalarıyla daha da güç toplamakta ve muhtemelen evrendeki en büyük mistik tehdittir. Bu kadar çok kahramanın turnuvada toplanmasıyla birlikte Dormammu geldi, şüphesiz bu gücü kendisi elde etmek istiyor."
-	},
-	
-	"archangel": {
-	 "bio": "X-Men ekibinin kurucu üyelerinden biri olan Warren Kenneth Worthington III, ölümden dönmesine ve kanatlarının vahşice kesilmesine dek daha çok Angel olarak biliniyordu. Angel, eski çağlardan kalan güçlü bir mutant olan Apocalypse tarafından kurtarıldı ve Death adlı atlıya dönüştürüldü. O haliyle, mavi derisi, içeri çekilebilir pençeleri ve güçlü bir nörotoksinle kaplı keskin bıçaklı metal kanatlarıyla, Apocalypse'in programını alt etmeyi başardı. Yine de, Archangel olarak öldürücü kana susamışlığına karşı hala kendi içinde bir mücadele veriyor."
-	},
-	
-	"psylocke": {
-	 "bio": "Elizabeth Betsy Braddock bir zamanlar, seçkin bir İngiliz ailede yetişen zeki ve normal bir genç kadındı. Mutasyona uğrayarak edindiği şaşırtıcı güçler, Mastermind adlı önsezi gücü taşıyan süper bilgisayarın da güç katmasıyla Dr. Synne tarafından zihni kontrol edilerek etkinleşti. Gitgide gelişen telepatik ve telekinetik güçlerinin açığa çıkmasıyla, önce X-Men ekibine ve sonra da Psylocke adıyla X-Force ekibine katıldı. Kötü niyetli Varlıklar tarafından ele geçirilen ruhu, amansız bir ninja savaşçısının bedenine ve bölünmüş kişiliğine zorla aktarıldı. Artık, kuvvetli bir mutant kahraman ve becerikli bir suikastçi haline gelen Psylocke, ölümcül yeteneklerini gerekli olduğunu düşündüğü her zaman hiç çekinmeden kullanmaya niyetlidir."
-	},
-	
-	"iceman": {
-	 "bio": "Robert Bobby Drake, namı diğer Buz Adam, başlangıçtaki X-men ekibinin ikinci ve en genç üyesiydi. Mutasyona uğramış olan güçleri sayesinde, vücut sıcaklığını düşürme, kendini organik buza dönüştürme ve etrafındaki havayı dondurma yeteneklerini kazanmıştır. Emma Frost'un etkisi altına girdiği zaman, Bobby'nin içindeki güçleri daha önce hiç olmadığı ölçüde açığa çıkarmayı başarmıştır. Başka insanların vücudundaki sıvıları dondurma ve sıvı, katı ya da gaz halinde muazzam mesafeleri kat etme gibi yeni özellikler sergileyen Buz Adam, sahip olduğu güçlerde ustalaşmak için çaba sarf etmektedir ve sınırlarının nereye ulaştığı bilinmemektedir."
-	},
-	
-	"angela": {
-	 "bio": "Avcıların Lideri, Galaksinin Koruyucusu, Cehennemin Kraliçesi, Melek, Tanrıça. Angela, bunlar gibi birçok unvana sahip bir kadındır. Freyja ile Odin'in ilk çocuğu olarak Aldrif Odinsdottir adıyla dünyaya gelmesine karşın, Melekler Kraliçesinin beslemesi olan Loriel tarafından Angela adıyla büyütülen bu kahraman, dişiyle tırnağıyla dövüşerek Galakside yol aldı. Şu sıralar Angela, Dokuz Diyar ve ötesinin en zorlu dövüş becerileri ve güç düellosu olan Turnuvaya katıldı."
-	},
-	
-	"king-groot": {
-	 "bio": "Gizemli bir yabancı orman örtüsünün dibinden çıkıp gelen, bitkilerin yenilmez üstadı ve X Gezegeni Kralı Groot, dört bir yanı fethediyor! Bir paralel evrenden gelen bu hunhar ve gaddar canavar, daha önce hiç Roket ile tanışmamış ya da Koruyuculara katılmamış; aksine, bir galaksinin askeri önderi olmuş ve insanları tutsak ederek üzerinde deneyler yapmıştır. Ama şu sıralar, acımasız Kral'ın görevi, Koleksiyoncu tarafından sekteye uğradı ve o da, gözünü yeni bir hedefe dikti: Turnuva'nın sunduğu bitmek bilmez hazinelerin ve gücün tamamını elinde toplamak!"
-	},
+    "cable": {
+      "bio": "Nathan Summers, kaderi daha doğmadan belirlenmiş olan bir çocuktu. Annesi Madelyne Pryor ile babası Scott Summers'ın, onu dünyaya getirmeleri için Mister Sinister tarafından aklı çelinmişti ve böylelikle, genetik yönden üstün bir mutant yaratarak muhteşem bir silaha sahip olmayı amaçlıyordu. Nathan çocukluğunda, tam aksine, ölümcül Tekno Organik Virüs kaptı ve hayata tutunabilmesi için 2000 yıl öteye gönderildi. Yıllar sonra günümüze geri döndü ve bugün ile gelecek arasında taşıdığı sıradışı köprü konumunu temsilen Cable adını aldı. "
+    },
+    "hood": {
+      "bio": "Daima insanüstülere hayranlık duyan genç hırsız Parker Robbins, kazançlarını hasta annesi de dâhil olmak üzere ailesine yardım etmek için kullanıyordu. Beklenmedik bir şekilde sonuçlanan bir soygunun ardından Parker'ın eline mistik bir bot ve pelerin geçti. Bu doğaüstü eşyaları anlamaya çabalayan Parker, bunların görünmezlik ve havada yürümek gibi sınırlı güçler sağladığını öğrendi. Polisin Hood ismiyle andığı Parker, kısa bir süre sonra daha karanlık bir yola girdi ve yeni elde ettiği güçlerden faydalanarak ailesinin güvenliğini sağlamak üzere kendi suç imparatorluğunu kurdu"
+    },
+    "dormammu": {
+      "bio": "Dormammu, Faltine olarak bilinen güçlü enerji varlıklarının oluşturduğu bir ırktan geliyor ve tek gerçek arzusu da güç. Bu arzusu nedeniyle kendi boyutuna kaçmak zorunda kaldı ve nihayetinde Karanlık Boyuta hükmetmek üzere yükseldi. Burada, tebasının tapınmalarıyla daha da güç toplamakta ve muhtemelen evrendeki en büyük mistik tehdittir. Bu kadar çok kahramanın turnuvada toplanmasıyla birlikte Dormammu geldi, şüphesiz bu gücü kendisi elde etmek istiyor."
+    },
+    "archangel": {
+      "bio": "X-Men ekibinin kurucu üyelerinden biri olan Warren Kenneth Worthington III, ölümden dönmesine ve kanatlarının vahşice kesilmesine dek daha çok Angel olarak biliniyordu. Angel, eski çağlardan kalan güçlü bir mutant olan Apocalypse tarafından kurtarıldı ve Death adlı atlıya dönüştürüldü. O haliyle, mavi derisi, içeri çekilebilir pençeleri ve güçlü bir nörotoksinle kaplı keskin bıçaklı metal kanatlarıyla, Apocalypse'in programını alt etmeyi başardı. Yine de, Archangel olarak öldürücü kana susamışlığına karşı hala kendi içinde bir mücadele veriyor."
+    },
+    "psylocke": {
+      "bio": "Elizabeth Betsy Braddock bir zamanlar, seçkin bir İngiliz ailede yetişen zeki ve normal bir genç kadındı. Mutasyona uğrayarak edindiği şaşırtıcı güçler, Mastermind adlı önsezi gücü taşıyan süper bilgisayarın da güç katmasıyla Dr. Synne tarafından zihni kontrol edilerek etkinleşti. Gitgide gelişen telepatik ve telekinetik güçlerinin açığa çıkmasıyla, önce X-Men ekibine ve sonra da Psylocke adıyla X-Force ekibine katıldı. Kötü niyetli Varlıklar tarafından ele geçirilen ruhu, amansız bir ninja savaşçısının bedenine ve bölünmüş kişiliğine zorla aktarıldı. Artık, kuvvetli bir mutant kahraman ve becerikli bir suikastçi haline gelen Psylocke, ölümcül yeteneklerini gerekli olduğunu düşündüğü her zaman hiç çekinmeden kullanmaya niyetlidir."
+    },
+    "iceman": {
+      "bio": "Robert Bobby Drake, namı diğer Buz Adam, başlangıçtaki X-men ekibinin ikinci ve en genç üyesiydi. Mutasyona uğramış olan güçleri sayesinde, vücut sıcaklığını düşürme, kendini organik buza dönüştürme ve etrafındaki havayı dondurma yeteneklerini kazanmıştır. Emma Frost'un etkisi altına girdiği zaman, Bobby'nin içindeki güçleri daha önce hiç olmadığı ölçüde açığa çıkarmayı başarmıştır. Başka insanların vücudundaki sıvıları dondurma ve sıvı, katı ya da gaz halinde muazzam mesafeleri kat etme gibi yeni özellikler sergileyen Buz Adam, sahip olduğu güçlerde ustalaşmak için çaba sarf etmektedir ve sınırlarının nereye ulaştığı bilinmemektedir."
+    },
+    "angela": {
+      "bio": "Avcıların Lideri, Galaksinin Koruyucusu, Cehennemin Kraliçesi, Melek, Tanrıça. Angela, bunlar gibi birçok unvana sahip bir kadındır. Freyja ile Odin'in ilk çocuğu olarak Aldrif Odinsdottir adıyla dünyaya gelmesine karşın, Melekler Kraliçesinin beslemesi olan Loriel tarafından Angela adıyla büyütülen bu kahraman, dişiyle tırnağıyla dövüşerek Galakside yol aldı. Şu sıralar Angela, Dokuz Diyar ve ötesinin en zorlu dövüş becerileri ve güç düellosu olan Turnuvaya katıldı."
+    },
+    "king-groot": {
+      "bio": "Gizemli bir yabancı orman örtüsünün dibinden çıkıp gelen, bitkilerin yenilmez üstadı ve X Gezegeni Kralı Groot, dört bir yanı fethediyor! Bir paralel evrenden gelen bu hunhar ve gaddar canavar, daha önce hiç Roket ile tanışmamış ya da Koruyuculara katılmamış; aksine, bir galaksinin askeri önderi olmuş ve insanları tutsak ederek üzerinde deneyler yapmıştır. Ama şu sıralar, acımasız Kral'ın görevi, Koleksiyoncu tarafından sekteye uğradı ve o da, gözünü yeni bir hedefe dikti: Turnuva'nın sunduğu bitmek bilmez hazinelerin ve gücün tamamını elinde toplamak!"
+    },
 }
