@@ -15,3 +15,7 @@ header:
     caption_url:    
 character: "magneto-marvel-now"
 ---
+
+### Biyografi:
+
+Manyetizmanın Efendisi, mutantlara zarar verenlere karşı kendi kendine dedektif, hakim, jüri ve infazcı görevini üstlendi. Marvel'in en büyük anti-kahramanlarından biri olan Manyeto, kendi mutant adaletini uygulamak için gereken her yolu kullanır.
