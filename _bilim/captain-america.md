@@ -16,3 +16,7 @@ header:
 character: "captain-america"
 
 ---
+
+### Biyografi:
+
+Steve Rogers'ın bedeni, asker olamayacak kadar zayıf olabilirdi ama kalbi pes etmeyecek kadar güçlüydü. Bilimin bir mucizesi sonucu Steve, Özgürlük Savaşçısı Kaptan Amerika'ya dönüşmüştür. İnsanüstü bir güce, hıza, reflekslere ve kırılmaz kalkanına sahip olan Kaptan Amerika, insanlar, kahramanlar ve tanrılar için doğuştan bir liderdir.
