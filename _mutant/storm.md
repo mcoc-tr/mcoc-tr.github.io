@@ -15,3 +15,7 @@ header:
     caption_url:    
 character: "storm"
 ---
+
+### Biyografi:
+
+Mutant, hırsız, lider, tanrıça... Ororo Munroe, hayatında birçok kimliğe sahip olmuştur. Fırtına olarak, havayı tüm yönleriyle kontrol edebilir. Kasırgalar, yıldırımlar ve tipiler onun emrine amadedir. Afrika'daki evinden Profesör X tarafından alınan Ororo, X-Men'de kendine yeni bir aile ve bir kahraman olarak yeni bir kimlik bulmuştur.
