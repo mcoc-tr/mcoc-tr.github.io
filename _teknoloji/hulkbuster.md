@@ -15,3 +15,7 @@ header:
     caption_url:    
 character: "hulkbuster"
 ---
+
+### Biyografi:
+
+İmkânları ve zekâsı ile Tony Stark, öfkeli bir Hulk ile savaşma zamanı geldiğinde ne yapılmasını gerektiğini iyi bilir: Zırhını güçlendirmek için bir Hulkbuster dış iskeleti üretmek. Sayısız ağır silahla donatılmış ve maksimum güç için tasarlanmış bu icat; EZMEK isteyen herkesin sahip olması gereken bir parça!
