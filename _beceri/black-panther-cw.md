@@ -53,7 +53,7 @@ Rakiplerini nokta atışlarıyla zayıflatan T’Challa, Wakanda’nın düşman
 
 ### Sinerji Bonusları
 
-Arkadaşlar (+%6 Zırh) – Vision ve Kara Dul
-Nemesis (+%6 Saldırı) – Kış Askeri
-Beceri Üstünlüğü (+%25 Kanama Hasarı) –  Şahin Göz ve Kara Panter (Klasik)
-Rakipler (+%25 Kritik Hasar) – Karınca Adam
+* Arkadaşlar (+%6 Zırh) – Vision ve Kara Dul
+* Nemesis (+%6 Saldırı) – Kış Askeri
+* Beceri Üstünlüğü (+%25 Kanama Hasarı) –  Şahin Göz ve Kara Panter (Klasik)
+* Rakipler (+%25 Kritik Hasar) – Karınca Adam
