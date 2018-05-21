@@ -15,3 +15,7 @@ header:
     caption_url:    
 character: "kang"
 ---
+
+### Biyografi:
+
+NİHAİ ZAFER SENİN KAHRAMAN OYUNCU. BEN Kİ FATİH KANG, ÇAĞLARIN FİRAVUNU, TÜM ZAMANLARIN EFENDİSİ VE EVRENDEKİ TÜM TEKNOLOJİNİN AKILLI KUMANDANI... SENİN GÜCÜNÜ KABUL EDİYORUM...şimdilik. ÇOK YAŞA KANG!
