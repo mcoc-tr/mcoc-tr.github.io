@@ -16,15 +16,15 @@ header:
 character: "falcon"
 ---
 
-### Biyografi:
+### **Biyografi**
 
 İyileşen gazilerle birlikte çalışmaya devam eden eski bir hava kuvvetleri paraşütlü kurtarma uzmanı olan Sam Wilson, efsanevi Kaptan Amerika'nın modern yaşama ayak uydurmasına yardımcı oldu ve kısa bir süre içinde Kaptan'ın en yakın dostu oldu. Deneysel bir kanatlı teçhizat takımı kullanan Wilson, yükseklerden uçan Falcon olarak gökyüzüne hareket eder.
 
-### Kopya Özelliği
+### **Kopya Özelliği**
 ####  EXO-8
 Kızıl Kanat her dövüşe hazır bir şekilde başlar. Bunun yanında Kızıl Kanat’ın Hedefe Kilitlenmesi 2 saniye daha uzun sürer ve %5 ek Kritik Darbe Şansı sağlar.
 
-### Özel Hareketler
+### **Özel Hareketler**
 #### 1: Zayıflatan Yaylım Ateşi
 Hızlı bir jet patlaması ile Falcon düşmanını tekmeler ve ardından çift makineli silahı ile bir yaylım ateşi açar.
 
@@ -42,7 +42,7 @@ Bombardıman taarruzu çağırma. Güdümlü füze atma. Hedef indirildi.
 
 * Bu saldırı düşmanı Tutuşturarak Saldırının %98 kadarını 10 saniye boyunca Enerji Hasarı olarak verir. Bu etki ayrıca Kusursuz Blok Şansını ortadan kaldırır ve etkin olduğu süre boyunca Blok Becerisini %50 düşürür. Kızıl Kanat Hedefe Kilitlendiğinde ek olarak %20 Blok Becerisi kaldırılır.
 
-### Pasif Özellikler
+### **Pasif Özellikler**
 #### Keşif
 
 * Keşif Taraması başlatmak için geriye Kaç ve 2 saniye boyunca Bloklamayı basılı tut. Hedefe Kilitlendiğinde rakibin Savunma Yetenek İsabeti 10 saniye boyunca %100 azalır.
@@ -58,7 +58,7 @@ Bombardıman taarruzu çağırma. Güdümlü füze atma. Hedef indirildi.
 #### Kızıl Kanat Yardımı
 * Falcon, takım arkadaşları için keşif yapması ve istihbarat edinmesi için Kızıl Kanat’ı gönderir. Falcon’un sinerjilerinden her biri %9 ek Fiziksel Direnç delme ve Kritik Hasar sağlar.
 
-### Sinerji Bonusları
+### **Sinerji Bonusları**
 
 * Arkadaşlar (+%6 Zırh) – Kaptan Amerika & Kaptan Amerika (WWII)
 * Düşmanlar (+%7 Kritik Darbe Olasılığı) – Savaş Makinesi & Kara Dul
