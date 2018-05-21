@@ -16,3 +16,7 @@ header:
 character: "captain-america-wwii"
 
 ---
+
+### Biyografi:
+
+En Büyük Nesil üyesi Steve Rogers, 2. Dünya Savaşı'nda günlerini Nazi avlamak ve alçak Kızıl Kafatası'na karşı savaşmakla geçirdi. Özgürlük Koruyucusu efsanesi işte bu günlerde doğmuştu.
