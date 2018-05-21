@@ -16,3 +16,7 @@ header:
 character: "ant-man"
 
 ---
+
+### Biyografi:
+
+Orijinal Karınca Adam emekli olunca başka birisi bu fırsatı kaçırmadı (şey yani, kostümünü çaldı): Scott Lang! Berbat bir geçmişe sahip olsa da, Scott, Karınca Adamın büyüklük değiştirme ve karıncalarla iletişim kurma yeteneklerini devraldı!
