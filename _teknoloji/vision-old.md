@@ -15,3 +15,7 @@ header:
     caption_url:    
 character: "vision-old"
 ---
+
+### Biyografi:
+
+Hain Ultron tarafından yaratılan gelişmiş bir robot olan Vision'ın karmaşık yapay zekâsı, ona savaşın en zorlu anlarında üstün karar verme ve strateji geliştirme imkânı sağlar. Esnek vücudu ona süper bir güç, uçuş yeteneği, soyutluk ve enerji patlaması yeteneklerini verir. İyinin yanında savaşan Vision, Android Yenilmez unvanını fazlasıyla hak etmiştir!\n
