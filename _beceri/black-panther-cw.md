@@ -16,15 +16,15 @@ header:
 character: "black-panther-cw"
 ---
 
-### Biyografi:
+### **Biyografi**
 
 İzole ancak teknolojik açıdan gelişmiş bir Afrika ülkesi olan Wakanda'nın kralı olan Kral T'Challa'nın doğuştan sahip olduğu haklar arasında sadece hükümdarlık değil, aynı zamanda güçlü bir savaşçı ve halkının bir sembolü olan Kara Panter pelerinini kuşanmak da vardır. T’Challa, ne kadar tehlikeli olursa olsun tüm tehditlere karşı ülkesini ve vatandaşlarını agresif bir şekilde savunur.
 
-### Kopya Özelliği
+### **Kopya Özelliği**
 #### Panter Alışkanlığı
 Kara Panter dövüşe Yansıtıcı durumu etkin bir şekilde başlar. Bunun yanında Kara Panter’in Zırhı pasif olarak %15-39 şansla 1 Zırhlanma etkisini harcayarak ağır saldırı darbelerini emebilir.
 
-### Özel Hareketler
+### **Özel Hareketler**
 #### 1: Kralın Kudreti 
 Wakanda Kralı, gücüne inanmayan herkese kudretini kanıtlar.
 
@@ -40,7 +40,7 @@ Rakiplerini nokta atışlarıyla zayıflatan T’Challa, Wakanda’nın düşman
 
 %75 şansla 3,25 saniye boyunca Sersemletme.
 
-### Pasif Özellikler
+### **Pasif Özellikler**
 #### Saldırıya Maruz Kaldığında
 
 * %60 şansla Zırhlanma uygulayarak saldırılardan gelen hasarı 6,5 saniye boyunca %8,75 azaltma.
@@ -51,8 +51,7 @@ Rakiplerini nokta atışlarıyla zayıflatan T’Challa, Wakanda’nın düşman
 
 * Kara Panter’in Vibranyum Zırhı, bir Zırhlanma etkisini kullanarak fiziksel Sersemletme etkilerini düşmana geri yansıtır. Rakibi %100 olasılıkla 2 saniye Sersemletme şansı.
 
-### Sinerji Bonusları
-
+### **Sinerji Bonusları**
 * Arkadaşlar (+%6 Zırh) – Vision ve Kara Dul
 * Nemesis (+%6 Saldırı) – Kış Askeri
 * Beceri Üstünlüğü (+%25 Kanama Hasarı) –  Şahin Göz ve Kara Panter (Klasik)
