@@ -15,3 +15,7 @@ header:
     caption_url: 
 character: "black-panther"
 ---
+
+### Biyografi:
+
+Wakanda'nın kralı olan T'Challa bir liderdir, halkının şampiyonudur ve Kara Panter pelerinin altında bir kahramandır. Sıra dışı bir hıza, güce ve savaş becerilerine sahiptir ve zorlu bir rakiptir. Bir bilim adamı olarak Marvel Evreni'nin en zeki insanlarından biri. Ve bir Yenilmez olarak Dünya'da ve uzayda adaleti savunur.
