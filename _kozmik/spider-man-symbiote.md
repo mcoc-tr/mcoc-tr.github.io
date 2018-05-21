@@ -15,3 +15,7 @@ header:
     caption_url:  
 character: "spider-man-symbiote"
 ---
+
+### Biyografi:
+
+Peter Parker'ın en ünlü kostümlerinden bir tanesi, uzaylı güçlerini açığa çıkarmak için Turnuvaya katılıyor. Kökeni kozmik olan Örümcek Adam'ın bu kara kostümünün kendi bilinci bile var.
