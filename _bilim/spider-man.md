@@ -15,3 +15,7 @@ header:
     caption_url:  
 character: "spider-man"
 ---
+
+### Biyografi:
+
+Kendini işine adamış bir bilim adamı olan Peter Parker, Muhteşem Örümcek Adam olarak gizli bir ikinci hayat sürmektedir! Ağlarıyla caddelerde sallanarak ilerlerken olağanüstü gücü, akrobatik yetenekleri ve Örümcek Hisleri ile New York şehrinin alçak suçlularıyla mücadele eder. Bunlar Örümcek Adam'ın günlük işinin birer parçasıdır!
