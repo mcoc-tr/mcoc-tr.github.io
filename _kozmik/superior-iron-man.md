@@ -15,3 +15,7 @@ header:
     caption_url:  
 character: "superior-iron-man"
 ---
+
+### Biyografi:
+
+Tony Stark her zaman için etkileyici bir egoya sahip olmuştur fakat \"Eksen\" etkinliği sırasındaki bir tersine çevirme büyüsü, karakterinin kötü yanlarını açığa çıkarttı; yeni bir kendine değer verme anlayışıyla San Francisco'ya taşındı. En yeni \"üstün\" görünüşünü yansıtmak için Kozmik varlıklar olan sembiyotlara dayanan, uyumlanabilen Model 51 adındaki Zırh kıyafeti yaptı.
