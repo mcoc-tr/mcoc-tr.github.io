@@ -15,3 +15,7 @@ header:
     caption_url:    
 character: "iron-patriot"
 ---
+
+### Biyografi:
+
+Kaptan Amerika'nın simgesini bir Demir Adam benzeri zırhta görmek seni yanıltmasın, bu Demir Vatansever hiç de göründüğü gibi değil. Neden? Çünkü destansı zırhın içerisinde azimli ve hilebaz Norman Osborn var. Turnuva'daki Karanlık Hükmü sırasında karşısına çıkan herkesi alt etmek için harekete geçmeye hazır.
