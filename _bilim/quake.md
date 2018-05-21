@@ -15,3 +15,7 @@ header:
     caption_url:  
 character: "quake"
 ---
+
+### Biyografi:
+
+Quake takma isimli Daisy Johnson'ın yeri sarsan güçleri, annesinin İnsanüstü soyundan gelmesinin bir sonucu olarak ergenlik çağındaki bir gençken kazara kendini gösterdi. Sahip olduğu yıkıcı güçleri S.H.I.E.L.D. ekibinin dikkatini çekti ve Nick Fury onu eğitmek ve akıl hocalığı yapmak üzere himayesine aldı. Nokta atışı düzeyinde isabetlilikle sismik dalgaları hedefleyebilme yeteneği ile S.H.I.E.L.D.’ın en becerikli ve güçlü ajanlarından biri haline geldi.
