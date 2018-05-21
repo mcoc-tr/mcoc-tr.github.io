@@ -15,3 +15,7 @@ header:
     caption_url:    
 character: "scarlet-witch"
 ---
+
+### Biyografi:
+
+Kimse Wanda Maximoff'a - namı diğer Scarlet Witch, kaos büyüsünün mutant ustası - kötü gözle bakmasın. Güçlü büyüleri, olasılıkları değiştirerek imkânsızın gerçekliğe dönüşmesini sağlar. Kötü Mutant Kardeşliği'nin eski bir üyesi, şimdi ise uzun süredir Yenilmezler'in üyesidir. Wanda, ikiz erkek kardeşi Quicksilver'la halâ yakındır.\n
