@@ -59,7 +59,7 @@ Bu saldırı İstila’nın bekleme süresini hemen sıfırlar.
 * Savunma Güç Kazanması, darbe alındığında veya bloklarken kazanılan Güç miktarıdır.
 
 ### Sinerji Bonusları
-Düşmanlar (+%7 Kritik Darbe Şansı) – Kaptan Amerika & Kaptan Amerika WW2
-Düşmanlar (+%7 Kritik Darbe Şansı) – Falcon
-Rakipler (+25 Kritik Hasar) – Kış Askeri
-Rakipler (+25 Kritik Hasar) – Kara Dul
+* Düşmanlar (+%7 Kritik Darbe Şansı) – Kaptan Amerika & Kaptan Amerika WW2
+* Düşmanlar (+%7 Kritik Darbe Şansı) – Falcon
+* Rakipler (+25 Kritik Hasar) – Kış Askeri
+* Rakipler (+25 Kritik Hasar) – Kara Dul
