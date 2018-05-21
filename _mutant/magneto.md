@@ -15,3 +15,7 @@ header:
     caption_url:    
 character: "magneto"
 ---
+
+### Biyografi:
+
+Manyetizmanın ustası Manyeto, Dünya üzerindeki en güçlü ve simgeleşmiş mutantlardan bir tanesidir. Max Eisenhardt olarak, tarifsiz zulümler görmüştür. Manyeto olarak, mutant hakları için savaşır... Bedeli ne olursa olsun. Manyetizmanın kuvvetlerini kontrol ederek kendi iradesinde güç okları yaratabilir ve metali kontrol edebilir. Bazen bir şampiyon, bazen ise fanatik Manyeto, X-Men'e karşı savaştığı kadar onlarla birlikte de savaşmıştır.
