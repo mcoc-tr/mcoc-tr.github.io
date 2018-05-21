@@ -42,20 +42,21 @@ Bu saldırı İstila’nın bekleme süresini hemen sıfırlar.
 ### Pasif Özellikler
 #### Hiddet
 
-- Kurukafa’nın hidrolik eldivenleri düşmanlarına boyun eğdirir. Kendisi kritik Darbe ile her vurduğunda Hiddet kazanır ve Saldırısı 8,5 saniye boyunca %45 artar.
-- Kritik Hasarına bağlı olarak Kurukafa’nın Hiddet etkilerinin kuvveti en fazla %20 oranında artar. Kritik Hasarı yükseldikçe Hiddet etkileri daha güçlü bir hal alır.
-- Aktif olan her bir Hiddet etkisi ile Kurukafa rakibine boyun eğdirerek Savunma Yetenek İsabetini, Hiddet etkisi başına %23 azaltır.
+* Kurukafa’nın hidrolik eldivenleri düşmanlarına boyun eğdirir. Kendisi kritik Darbe ile her vurduğunda Hiddet kazanır ve Saldırısı 8,5 saniye boyunca %45 artar.
+* Kritik Hasarına bağlı olarak Kurukafa’nın Hiddet etkilerinin kuvveti en fazla %20 oranında artar. Kritik Hasarı yükseldikçe Hiddet etkileri daha güçlü bir hal alır.
+* Aktif olan her bir Hiddet etkisi ile Kurukafa rakibine boyun eğdirerek Savunma Yetenek İsabetini, Hiddet etkisi başına %23 azaltır.
+
 *Kurukafa’nın Hiddet etkileri sınırsız bir şekilde birikir.
 
 #### İstila
 
-- İstila’ya başlamak için geriye Kaç ve 2 saniye boyunca Bloklamaya basılı tut. İstila etkinleştirildiğinde bekleme süresi başlayana kadar 8 saniye boyunca devam eder.
-- Kurukafa İstila’ya başladığında 3 Hiddet etkisi kazanır ve İstila süresi boyunca %50 düşük Zırhı ve Blok Becerisi olur.
-- İstila etkinken Kurukafa’nın Saldırı Güç Kazanması %40 artar ve Savunma Güç Kazanması da aynı oranda azalır.
+* İstila’ya başlamak için geriye Kaç ve 2 saniye boyunca Bloklamaya basılı tut. İstila etkinleştirildiğinde bekleme süresi başlayana kadar 8 saniye boyunca devam eder.
+* Kurukafa İstila’ya başladığında 3 Hiddet etkisi kazanır ve İstila süresi boyunca %50 düşük Zırhı ve Blok Becerisi olur.
+* İstila etkinken Kurukafa’nın Saldırı Güç Kazanması %40 artar ve Savunma Güç Kazanması da aynı oranda azalır.
 
-*Saldırı Güç Kazanması, rakibe indirerek kazanılan Güç miktarıdır.
+* Saldırı Güç Kazanması, rakibe indirerek kazanılan Güç miktarıdır.
 
-*Savunma Güç Kazanması, darbe alındığında veya bloklarken kazanılan Güç miktarıdır.
+* Savunma Güç Kazanması, darbe alındığında veya bloklarken kazanılan Güç miktarıdır.
 
 ### Sinerji Bonusları
 Düşmanlar (+%7 Kritik Darbe Şansı) – Kaptan Amerika & Kaptan Amerika WW2
