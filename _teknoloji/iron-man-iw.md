@@ -29,8 +29,8 @@ Tony Stark,en başından bu yana Yenilmezler takımının ayrılmaz bir parças�
 * Geliştirici Notu: Söz konusu yeteneğin etkinleşmesi için, Demir Adam (Sonsuzluk Savaşı)’ın dövüşe başlarken Sağlığının %15 seviyesinin üzerinde olmasına gerek yoktur. Hatta dövüşe, kalan Sağlığı sadece %2 seviyesindeyken giriş yapsa bile; ani Zırh artışları, Güç üretme ve Otomatik Blok gibi etkiler tetiklenecektir. Yine de bu tetiklenme, her dövüşte yalnız bir defayla sınırlıdır.
 
 ### **Özel Hareketler**
-#### 1: Sıfır Noktası 
-Patlamaları – Gizli bir enerji kaynağından faydalanılması sayesinde, kostüm şekil değiştirir ve ateş zayıflatıcı patlamalar halini alır.
+#### 1: Sıfır Noktası Patlamaları 
+Gizli bir enerji kaynağından faydalanılması sayesinde, kostüm şekil değiştirir ve ateş zayıflatıcı patlamalar halini alır.
 
 * Birinci darbe, bir adet Engellenemez Bıçaklı Kol kullanır ve Yenilenme etkileri altındaki hedeflere karşı 16 saniye boyunca İyileşme Engelleme uygular.
 * Her enerji roketi, bir Püskürtme saldırısının tüm özelliklerine sahiptir ve rakiplerde sıfır Güç üretir
