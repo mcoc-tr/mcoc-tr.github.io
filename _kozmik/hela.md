@@ -13,7 +13,7 @@ header:
     image_fullwidth: "/banner/hela.jpg"
     caption: 
     caption_url:  
-character: "Hela"
+character: "hela"
 
 ---
 
