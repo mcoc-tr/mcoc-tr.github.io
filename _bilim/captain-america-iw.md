@@ -79,7 +79,7 @@ Kaptan, örnek davranışlarıyla yol göstererek, düşmanını mindere gömer!
 ### **Sinerji Bonusları**
 * Vision, Vision (Ultron Çağı), Demir Adam – Teknoloji Devrimi
     * Teknoloji Şampiyonları, Rakip tarafından bir Özel Saldırı kullanıldığında, Rakibin Maks. Gücünün %100’ünü boşaltır.
-    * Not: Burada anahtar sözcük “sonra”dır. Bu kapsamda, öncelikli olarak Rakibin, bir Özel Saldırıya başvurduktan sonra elinde kalan tüm gücü boşaltılır. Özel Saldırıların bedelini düşüren her türlü karoya/yeteneğe karşı, söz konusu rakip (öksürük sesi) Sentinel (öksürük sesi) bile olsa oldukça etkilidir.
+    * Not: Burada anahtar sözcük “sonra”dır. Bu kapsamda, öncelikli olarak Rakibin, bir Özel Saldırıya başvurduktan sonra elinde kalan tüm gücü boşaltılır. Özel Saldırıların bedelini düşüren her türlü karoya/yeteneğe karşı, söz konusu rakip Sentinel bile olsa oldukça etkilidir.
 
 * Wolverine, Fırtına, Beast – Mutant Evrimi
     * Mutant Şampiyonlar, Pasif halde ve kalıcı bir +%20’lik Hüner kazanırlar.
