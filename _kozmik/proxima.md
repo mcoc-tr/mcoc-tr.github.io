@@ -58,10 +58,12 @@ Not: Proxima Midnight, hasar miktarında geçici süreli sıçramalar görülse 
 ### **Pasif Özellikler**
 #### Saldırıya Uğradığında
 * Eğer Proxima’nın Kombo Sayacında 30’dan fazla darbe varsa, bir roket saldırısına uğradığında, 4 saniye boyunca tek bir kaynaktan maks. Sağlığının %3’ünden fazlasını kaybetmesini önleyen bir Muhafaza Takviyesini etkinleştirebilir.
+
 Not: Yondu ve Yeşil Cin’e karşı dişli bir rakiptir!
 
 #### Engelleme
 * Proxima Midnight bir Saldırıyı Engellediğinde, rakip, %200 Saldırı Yeteneği İsabeti azaltma imkanına sahiptir. Buna ek olarak, herhangi bir Temel Saldırıya karşı Siper Ustalığını kullanarak, saldırıları roket tabanlı olsa bile, rakipleri sersemletebilir.
+
 Not: Yondu, Proxima Midnight’ın Blokundan geçecek biçimde Kanama etkisi uygulayamaz!
 
 ### **Sinerji Bonusları**
