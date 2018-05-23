@@ -22,8 +22,8 @@ Wolverine'in üvey kardeşi Victor Creed, daha çok \"Sabretooth\" kod adı ile 
 
 ### **Kopya Özelliği**
 
-#### Yabani Kalp – Sabretooth, rakipten darbe aldığında, Pasif Yenilenme setleri kazanır.
-Saldırıya Uğradığında
+#### Yabani Kalp 
+Sabretooth, rakipten darbe aldığında, Pasif Yenilenme setleri kazanır.
 * Sabretooth, 30 saniye boyunca darbeden alınan hasarın %20 – 60 kadarını iyileştiren bir adet Pasif Yenilenme seti kazanır ve eğer Sabretooth’a İyileştirme Engelleme uygulanırsa, bu durum kesintiye uğrar.
 * Hiddet ve Yenilenme etkileri, +%60 – 100 oranında kalıcı bir Yetenek İsabeti elde eder.
 * Eğer Sabretooth, rakibe 5 saniyeden fazla darbe indirmezse veya ondan darbe almazsa, zamanla Yenilenme setlerini kaybetmeye başlar.
