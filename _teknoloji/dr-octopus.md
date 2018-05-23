@@ -16,6 +16,6 @@ header:
 character: "dr-octopus"
 ---
 
-### Biyografi:
+### **Biyografi:**
 
 Otto Octavius sorunlu bir aileden geliyordu. Kötü davranan babasının yolundan gitmemeye kararlı olan Otto, kendini çalışmalarına adadı. Akranlarının yıllarca kendisiyle alay etmesine rağmen, nükleer fizikçi oldu. Ancak, tasarladığı ve oluşturduğu mekanik kolların bir kazanın ardından cerrahi olarak çıkarılmasının gerekmesinden sonra, Otto'nun sonunda canına tak etti. Otto, iş arkadaşlarının kendisi için uydurduğu aşağılayıcı adı benimseyerek, Doktor Ahtapot olarak suç yaşamına başladı.
