@@ -52,6 +52,7 @@ Proxima Midnight’ın başarması gereken 3 görevi vardır ve bunlar, rastgele
 * Görev 3: Güçsüz Bırak: Bir adet Ağır veya Özel Saldırı kullanarak, rakibi 5 kez yere ser.
 * Proxima, görevlerinin birinde bir hedefi tamamladığı zaman, 5 saniye boyunca Tam İsabet kazanarak, Otomatik Blok ve tüm Kaçış etkilerini göz ardı etme olanağını elde eder.
 * Bir görevi tamamladığı her zaman, 10 saniye boyunca Özel Hasarı %250 arttıran bir Hüner Takviyesi kazanır. Proxima, geçici Hüner Takviyesinin süresi dolduğunda, dövüşün geri kalanı boyunca Özel Hasarı %200 arttıran kalıcı bir Hüner kazanır.
+
 Not: Proxima Midnight, hasar miktarında geçici süreli sıçramalar görülse de, uzun süren dövüşlerde çok etkili olacak biçimde tasarlanmıştır. Oyuncular 4 adet Hüner ve 4 adet Hiddet Takviyesi elde ettiklerinde; bu kahramanın verdiği hasar miktarı, oyunda görülen en yüksek miktarlardan birine ulaşarak, onu Efsaneler Labirenti için gerçekten ideal bir seçenek haline getirir.
 
 ### **Pasif Özellikler**
