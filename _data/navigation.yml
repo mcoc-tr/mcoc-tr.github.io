@@ -70,7 +70,7 @@
     dropdown:
     - title: "Saldırı"
       url: "/ustaliklar/saldiri/"
-    - title: "Saldırı"
+    - title: "Savunma"
       url: "/ustaliklar/savunma/"
-    - title: "Saldırı"
+    - title: "Işlevsel"
       url: "/ustaliklar/islevsel/"      
