@@ -63,14 +63,14 @@
 - title: "Taktik"
   url: "/taktik/"
   side: left
-  
-  - title: "Ustalıklar"
-    url: "/Ustaliklar/"
-    side: left
-    dropdown:
-    - title: "Saldırı"
-      url: "/ustaliklar/saldiri/"
-    - title: "Savunma"
-      url: "/ustaliklar/savunma/"
-    - title: "Işlevsel"
-      url: "/ustaliklar/islevsel/"      
+
+- title: "Ustalıklar"
+  url: "/Ustaliklar/"
+  side: left
+  dropdown:
+  - title: "Saldırı"
+    url: "/ustaliklar/saldiri/"
+  - title: "Savunma"
+    url: "/ustaliklar/savunma/"
+  - title: "Işlevsel"
+    url: "/ustaliklar/islevsel/"
