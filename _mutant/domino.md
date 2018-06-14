@@ -48,17 +48,6 @@ Domino, iki atıştan sonra, tabancası ile rakibe ateş eder ve daha sonra, dah
 * Eğer Domino Şanslı ise; bu saldırı, bu dövüşte ya Domino ya da onun rakibi tarafından indirilen her Kritik Darbeye karşılık +38 Saldırı Puanına sahiptir (Maks.: 100 Kritik Darbe).
 * Eğer rakip Şanssız ise; bu saldırı, 4 saniye boyunca bir Zırhlanmayı ortadan kaldıran ve Zırhı 564 birim zayıflatan bir Zırh Kırma uygular.
 
-### Thanos’tan Görevler
-
-Corvus Glaive’in başarması gereken 4 görevi vardır. Bir görevi tamamladığı zaman, Kritik Hasar Puanını 3000 birim arttıran 1 adet Devamlı Yük ve 1 adet Zalimlik Takviyesi kazanır. Görevler herhangi bir sırayla tamamlanabilir.
-Corvus Glaive, elindeki Devamlı Yüklerle eşit miktarda Zalimlik Takviyesi ile dövüşe başlar.
-* Görev 1: Yenilmezler’i Ortadan Kaldır: Yenilmezler’in bir üyesini nakavt et. Corvus, bu görev tamamlandıktan sonra, Yenilmezler’in bir üyesine karşı dövüşürken 10 adet ek Glaive yükü kazanır.
-* Görev 2: Sabotaj Teknolojisi: Bir Teknoloji Şampiyonunu nakavt et. Bu görev tamamlandıktan sonra, Teknoloji Şampiyonlarının Yetenek İsabeti %25 azalmış olur.
-* Görev 3: Esrarengizi Avla: Bir Mutant Şampiyonu nakavt et. Eğer Wolverine, Wolverine (Laura/X-23) veya Fırtına ile oluşan sinerji aktifse, rakibin 2 No’lu Özel Saldırılarına karşı Muhafaza kazandırır.
-* Görev 4: Savunma Hattını Aş: Bir dövüşte Kaçıştan veya Otomatik Bloktan yararlanan bir rakibi yere sermek için bir Ağır ya da Özel Saldırı kullan. Bu görev tamamlandıktan sonra; Proxima Midnight ile oluşan sinerji aktif haldeyse, elindeki Gerçek Hasar Takviyesi bir adet Gerçek Saldırı Takviyesine dönüşür.
-
-Not: Aynı anda birden fazla görevi tamamlayabilirsin! Eğer bir Nightcrawler’a denk gelirsen ve Kaçışı başarılı olursa, bir dövüş içerisinde Görev 2 ve Görev 4’ü tamamlaman mümkün olabilir. Aldığı Görevlerden gelen tüm Bonuslar, Devamlıdır.
-
 ### **Pasif Özellikler**
 #### Olasılık Alanı 
 
